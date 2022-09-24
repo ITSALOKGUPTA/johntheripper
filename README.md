@@ -1,1 +1,1 @@
-# johntheripper
+# johntheripper command
